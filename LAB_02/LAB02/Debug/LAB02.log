@@ -1,0 +1,63 @@
+﻿  LAB02.cpp
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(92): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(107): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(151): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(273): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(277): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(283): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(284): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(294): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(300): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(319): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(328): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(343): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(349): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(350): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(355): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(356): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(361): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(362): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(367): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(368): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(379): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(382): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(395): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(401): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(402): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(402): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(407): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(408): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(408): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(420): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(422): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(444): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(456): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(472): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(539): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(540): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(541): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(542): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(649): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(656): warning C4305: '-=': troncamento da 'double' a 'float'
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(694): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(701): warning C4305: '-=': troncamento da 'double' a 'float'
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(728): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(742): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(749): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(768): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(769): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(785): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(786): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(787): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(817): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(832): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(847): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(862): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(879): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(949): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(950): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(951): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(964): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(965): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_02\lab02\lab02.cpp(966): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+  LAB02.vcxproj -> C:\Users\matyu\Desktop\computer graphics\progetti\LAB_02\Debug\LAB02.exe

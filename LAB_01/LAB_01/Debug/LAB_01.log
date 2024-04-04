@@ -1,0 +1,24 @@
+﻿  LAB_01.cpp
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(238): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(299): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(381): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(382): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(383): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(384): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(429): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(430): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(432): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(433): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(437): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(438): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(440): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(441): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(444): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(445): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(447): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(448): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(452): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(453): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(454): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_01\lab_01\lab_01.cpp(455): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+  LAB_01.vcxproj -> C:\Users\matyu\Desktop\computer graphics\progetti\LAB_01\Debug\LAB_01.exe

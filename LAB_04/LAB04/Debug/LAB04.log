@@ -1,0 +1,6 @@
+﻿  raytracer_students.cpp
+c:\users\matyu\desktop\computer graphics\progetti\lab_04\lab04\raytracer_students.cpp(152): warning C4305: 'argomento': troncamento da 'double' a 'float'
+c:\users\matyu\desktop\computer graphics\progetti\lab_04\lab04\raytracer_students.cpp(153): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_04\lab04\raytracer_students.cpp(183): warning C4305: 'argomento': troncamento da 'double' a 'float'
+c:\users\matyu\desktop\computer graphics\progetti\lab_04\lab04\face.h(52): warning C4715: 'Face::operator[]': non tutti i percorsi di controllo restituiscono un valore
+  LAB04.vcxproj -> C:\Users\matyu\Desktop\computer graphics\progetti\LAB_04\Debug\LAB04.exe

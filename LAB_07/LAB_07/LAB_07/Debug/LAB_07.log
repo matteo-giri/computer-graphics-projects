@@ -1,0 +1,25 @@
+﻿  LAB_07.cpp
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(271): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(296): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(356): warning C4101: 'textureID': variabile locale senza riferimenti
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(801): warning C4305: 'argomento': troncamento da 'double' a 'GLclampf'
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(806): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(901): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(996): warning C4244: 'inizializzazione': conversione da 'GLfloat' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1017): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1114): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1115): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1123): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1215): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1280): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1281): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1513): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1531): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1544): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1561): warning C4244: '=': conversione da 'double' a 'GLubyte'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1668): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  LAB_07.vcxproj -> C:\Users\matyu\Desktop\computer graphics\progetti\LAB_07\LAB_07\Debug\LAB_07.exe

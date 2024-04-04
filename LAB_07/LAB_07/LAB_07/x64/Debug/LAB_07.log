@@ -1,0 +1,87 @@
+﻿  HUD_Logger.cpp
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(16): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(36): warning C4244: 'inizializzazione': conversione da 'GLfloat' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(43): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(44): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(47): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(50): warning C4244: 'argomento': conversione da 'double' a 'GLfloat'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(51): warning C4305: 'argomento': troncamento da 'double' a 'GLfloat'
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\hud_logger.cpp(54): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+  LAB_07.cpp
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(271): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(296): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(319): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(335): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(351): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(356): warning C4101: 'textureID': variabile locale senza riferimenti
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(418): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(435): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(440): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(472): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(473): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(477): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(478): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(496): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=int
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(497): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(801): warning C4305: 'argomento': troncamento da 'double' a 'GLclampf'
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(883): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(976): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(996): warning C4244: 'inizializzazione': conversione da 'GLfloat' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1114): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1115): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1123): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1211): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1280): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1281): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_07\lab_07\lab_07\lab_07.cpp(1561): warning C4244: '=': conversione da 'double' a 'GLubyte'. Possibile perdita di dati.
+  ShaderMaker.cpp
+  Generazione del codice in corso...
+  LAB_07.vcxproj -> C:\Users\matyu\Desktop\computer graphics\progetti\LAB_07\LAB_07\x64\Debug\LAB_07.exe

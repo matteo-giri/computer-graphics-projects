@@ -1,0 +1,21 @@
+﻿  LAB_03.cpp
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(387): warning C4244: '=': conversione da 'GLint' a 'GLfloat'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(524): warning C4305: 'argomento': troncamento da 'double' a 'GLclampf'
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(529): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(582): warning C4244: 'argomento': conversione da 'clock_t' a 'GLfloat'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(582): warning C4244: 'argomento': conversione da 'GLfloat' a 'GLint'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(614): warning C4244: 'inizializzazione': conversione da 'GLfloat' a 'int'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(636): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(732): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(733): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(741): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(794): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(859): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(860): warning C4244: '=': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(1040): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\matyu\desktop\computer graphics\progetti\lab_03\lab_03\lab_03.cpp(1072): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  LAB_03.vcxproj -> C:\Users\matyu\Desktop\computer graphics\progetti\LAB_03\Debug\LAB_03.exe
